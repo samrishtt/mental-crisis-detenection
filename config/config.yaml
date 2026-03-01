@@ -1,0 +1,156 @@
+# ============================================================
+# MindGuard Configuration
+# Privacy-Preserving Mental Health Crisis Detection
+# ============================================================
+
+# --- Project Metadata ---
+project:
+  name: "MindGuard"
+  version: "1.0.0"
+  description: "Privacy-preserving NLP screening tool for adolescent mental health triage"
+  ethical_disclaimer: >
+    This is a screening tool only. A trained human must review all flags.
+    This system cannot diagnose mental health conditions.
+
+# --- Data Pipeline ---
+data:
+  # HuggingFace dataset sources
+  sources:
+    - "sentimental-mental-health"  # Reddit mental health dataset
+  subreddits:
+    crisis: ["SuicideWatch"]
+    moderate: ["depression", "anxiety"]
+    mild: ["mentalhealth", "offmychest"]
+    control: ["CasualConversation", "AskReddit"]
+  
+  # CSSRS-aligned severity labels
+  labels:
+    0: "No Concern"
+    1: "Mild"
+    2: "Moderate"
+    3: "Severe Crisis"
+  num_labels: 4
+  
+  # Text preprocessing
+  preprocessing:
+    max_length: 256
+    min_length: 10        # Minimum word count to keep
+    remove_urls: true
+    remove_usernames: true
+    remove_emojis: false   # Emojis carry sentiment signal
+    lowercase: true
+  
+  # Train/Val/Test split ratios
+  splits:
+    train: 0.8
+    val: 0.1
+    test: 0.1
+  
+  # Random seed for reproducibility
+  seed: 42
+
+# --- Model ---
+model:
+  name: "mental/mental-bert-base-uncased"
+  num_labels: 4
+  dropout: 0.3
+  freeze_embeddings: false
+  freeze_lower_layers: 0  # Number of transformer layers to freeze (0 = none)
+  use_lora: true          # Parameter-Efficient Fine-Tuning
+
+# --- Training ---
+training:
+  batch_size: 16
+  learning_rate: 2.0e-5
+  weight_decay: 0.01
+  num_epochs: 10
+  warmup_ratio: 0.1
+  max_grad_norm: 1.0
+  
+  # Early stopping
+  early_stopping:
+    patience: 3
+    metric: "val_f1_macro"
+    mode: "max"
+  
+  # Class weights — asymmetric: penalize missing a crisis MORE
+  # These are multiplied by inverse class frequency automatically
+  class_weight_multipliers:
+    0: 1.0     # No Concern (most common)
+    1: 1.5     # Mild
+    2: 2.5     # Moderate
+    3: 5.0     # Severe Crisis (rarest, most costly to miss)
+  
+  # Asymmetric loss: false negative penalty for severe class
+  asymmetric_loss:
+    enabled: true
+    fn_weight: 3.0   # Extra penalty for false negatives on crisis class
+    fp_weight: 1.0   # Standard penalty for false positives
+
+  # Mixed precision
+  fp16: true
+  
+  # Gradient accumulation (effective batch = batch_size * accumulation_steps)
+  gradient_accumulation_steps: 2
+
+# --- Evaluation ---
+evaluation:
+  metrics:
+    - "f1_macro"
+    - "f1_per_class"
+    - "auc_roc"
+    - "precision_per_class"
+    - "recall_per_class"
+    - "confusion_matrix"
+  
+  # Bias audit demographic terms
+  bias_audit:
+    gender_terms:
+      male: ["he", "him", "his", "boy", "man", "male", "brother", "father", "son"]
+      female: ["she", "her", "hers", "girl", "woman", "female", "sister", "mother", "daughter"]
+      nonbinary: ["they", "them", "nonbinary", "non-binary", "genderqueer"]
+    race_terms:
+      - "black"
+      - "white"
+      - "asian"
+      - "hispanic"
+      - "latino"
+      - "native"
+      - "indigenous"
+    religion_terms:
+      - "christian"
+      - "muslim"
+      - "jewish"
+      - "hindu"
+      - "buddhist"
+      - "atheist"
+
+# --- Explainability ---
+explainability:
+  method: "shap"           # "shap" or "lime"
+  num_features: 15         # Top N words to highlight
+  shap_max_evals: 500
+  background_samples: 50
+
+# --- Gradio App ---
+app:
+  title: "MindGuard — Mental Health Screening Tool"
+  description: >
+    A privacy-preserving screening tool for school counselors.
+    This tool does NOT diagnose. All flags must be reviewed by a trained professional.
+  share: false            # Never share publicly
+  server_port: 7860
+  log_inputs: false       # HARD REQUIREMENT: never log user text
+  
+  # Confidence thresholds for display
+  confidence_thresholds:
+    high: 0.75
+    medium: 0.50
+    low: 0.25
+
+# --- Paths ---
+paths:
+  data_dir: "data/processed"
+  model_dir: "checkpoints"
+  logs_dir: "logs"
+  results_dir: "results"

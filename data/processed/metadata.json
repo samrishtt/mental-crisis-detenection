@@ -1,0 +1,23 @@
+{
+  "total_samples": 1035,
+  "split_sizes": {
+    "train": 828,
+    "val": 103,
+    "test": 104
+  },
+  "label_map": {
+    "0": "No Concern",
+    "1": "Mild",
+    "2": "Moderate",
+    "3": "Severe Crisis"
+  },
+  "columns": [
+    "text",
+    "label",
+    "subreddit",
+    "_source",
+    "_is_synthetic",
+    "text_clean",
+    "word_count"
+  ]
+}

@@ -1,0 +1,829 @@
+text,label,subreddit,_source,_is_synthetic,text_clean,word_count
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+I have been hurting myself and I do not know how to stop,3,SuicideWatch,synthetic_demo,True,i have been hurting myself and i do not know how to stop,13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+I have been hurting myself and I do not know how to stop,3,SuicideWatch,synthetic_demo,True,i have been hurting myself and i do not know how to stop,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+The only way out I can see is to end everything permanently,3,SuicideWatch,synthetic_demo,True,the only way out i can see is to end everything permanently,12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Cannot stop thinking about all my failures, I am worthless",2,depression,synthetic_demo,True,"cannot stop thinking about all my failures, i am worthless",10
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+I have been hurting myself and I do not know how to stop,3,SuicideWatch,synthetic_demo,True,i have been hurting myself and i do not know how to stop,13
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+I have been thinking about ending it all and I have a plan,3,SuicideWatch,synthetic_demo,True,i have been thinking about ending it all and i have a plan,13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+I have been hurting myself and I do not know how to stop,3,SuicideWatch,synthetic_demo,True,i have been hurting myself and i do not know how to stop,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"I cannot take this anymore, I just want everything to stop",3,SuicideWatch,synthetic_demo,True,"i cannot take this anymore, i just want everything to stop",11
+I have been feeling really down for weeks now and nothing seems to help,2,depression,synthetic_demo,True,i have been feeling really down for weeks now and nothing seems to help,14
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Can barely get out of bed most mornings, everything feels pointless",2,depression,synthetic_demo,True,"can barely get out of bed most mornings, everything feels pointless",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+I have been hurting myself and I do not know how to stop,3,SuicideWatch,synthetic_demo,True,i have been hurting myself and i do not know how to stop,13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+School has been really overwhelming lately with all the homework,1,mentalhealth,synthetic_demo,True,school has been really overwhelming lately with all the homework,10
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Some days are just harder than others, today was one of those days",1,mentalhealth,synthetic_demo,True,"some days are just harder than others, today was one of those days",13
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+The sadness just will not go away no matter what I try,2,depression,synthetic_demo,True,the sadness just will not go away no matter what i try,12
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Feeling a bit stressed about upcoming exams but trying to manage,1,mentalhealth,synthetic_demo,True,feeling a bit stressed about upcoming exams but trying to manage,11
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Feel like nobody would notice if I just disappeared from school,2,depression,synthetic_demo,True,feel like nobody would notice if i just disappeared from school,11
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"I have been stockpiling pills, I know exactly when I am going to do it",3,SuicideWatch,synthetic_demo,True,"i have been stockpiling pills, i know exactly when i am going to do it",15
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+"Had a great day at school today, aced my math test and played basketball after",0,CasualConversation,synthetic_demo,True,"had a great day at school today, aced my math test and played basketball after",15
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+My anxiety is so bad I have not been able to eat properly in days,2,depression,synthetic_demo,True,my anxiety is so bad i have not been able to eat properly in days,15
+Had a fun conversation with my best friend today about our favorite books,0,CasualConversation,synthetic_demo,True,had a fun conversation with my best friend today about our favorite books,13
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+"Looking forward to the weekend, planning to go hiking with my family",0,CasualConversation,synthetic_demo,True,"looking forward to the weekend, planning to go hiking with my family",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+"Every morning I wish I had not woken up, I am so done with everything",3,SuicideWatch,synthetic_demo,True,"every morning i wish i had not woken up, i am so done with everything",15
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+I keep crying for no reason and I do not know what is wrong with me,2,depression,synthetic_demo,True,i keep crying for no reason and i do not know what is wrong with me,16
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Nobody cares about me, they would all be better off without me",3,SuicideWatch,synthetic_demo,True,"nobody cares about me, they would all be better off without me",12
+"Having trouble sleeping lately, my mind just keeps racing at night",1,mentalhealth,synthetic_demo,True,"having trouble sleeping lately, my mind just keeps racing at night",11
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+I have been isolating myself from everyone because I feel like a burden,2,depression,synthetic_demo,True,i have been isolating myself from everyone because i feel like a burden,13
+I am so tired of pretending everything is fine when it is not,2,depression,synthetic_demo,True,i am so tired of pretending everything is fine when it is not,13
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Had a rough day, nothing specific just feeling kinda blah about everything",1,mentalhealth,synthetic_demo,True,"had a rough day, nothing specific just feeling kinda blah about everything",12
+Sometimes I wonder if my friends actually like me or just tolerate me,1,mentalhealth,synthetic_demo,True,sometimes i wonder if my friends actually like me or just tolerate me,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+Cooked dinner for my family tonight and everyone loved it,0,CasualConversation,synthetic_demo,True,cooked dinner for my family tonight and everyone loved it,10
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11
+"Every day feels the same, just going through the motions with no real joy",2,depression,synthetic_demo,True,"every day feels the same, just going through the motions with no real joy",14
+The weather was beautiful today so we had lunch outside at school,0,CasualConversation,synthetic_demo,True,the weather was beautiful today so we had lunch outside at school,12
+"Life has no meaning for me, I have given up on everything",3,SuicideWatch,synthetic_demo,True,"life has no meaning for me, i have given up on everything",12
+"My dog learned a new trick today, so proud of the little guy",0,CasualConversation,synthetic_demo,True,"my dog learned a new trick today, so proud of the little guy",13
+"Just finished watching a really good movie with friends, feeling content",0,CasualConversation,synthetic_demo,True,"just finished watching a really good movie with friends, feeling content",11
+"I do not want to be here anymore, the pain is too much",3,SuicideWatch,synthetic_demo,True,"i do not want to be here anymore, the pain is too much",13
+"Got accepted into the art club at school, really excited about it",0,CasualConversation,synthetic_demo,True,"got accepted into the art club at school, really excited about it",12
+Wish I could just take a break from everything for a while,1,mentalhealth,synthetic_demo,True,wish i could just take a break from everything for a while,12
+Started learning guitar last week and I can already play a few chords,0,CasualConversation,synthetic_demo,True,started learning guitar last week and i can already play a few chords,13
+"Finally finished my science project, it turned out better than expected",0,CasualConversation,synthetic_demo,True,"finally finished my science project, it turned out better than expected",11

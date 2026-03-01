@@ -1,0 +1,22 @@
+{
+  "total_samples": 1035,
+  "class_counts": {
+    "No Concern": 500,
+    "Mild": 245,
+    "Moderate": 200,
+    "Severe Crisis": 90
+  },
+  "class_percentages": {
+    "No Concern": 48.31,
+    "Mild": 23.67,
+    "Moderate": 19.32,
+    "Severe Crisis": 8.7
+  },
+  "imbalance_ratio": 5.555555555555555,
+  "class_weights": {
+    "No Concern": 1.0,
+    "Mild": 3.0612244897959187,
+    "Moderate": 6.250000000000001,
+    "Severe Crisis": 27.77777777777778
+  }
+}
