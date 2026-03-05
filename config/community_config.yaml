@@ -1,0 +1,278 @@
+# ============================================================
+# MindGuard Community Edition Configuration
+# Emotional Wellness Platform for Organizations & Communities
+# ============================================================
+
+# --- Community Features ---
+community:
+  name: "MindGuard Community Edition"
+  version: "2.0.0"
+  tagline: "Empowering communities to support emotional wellness"
+  
+  ethical_disclaimer: >
+    MindGuard Community Edition is an ANONYMOUS SCREENING tool designed
+    to help organizations understand the emotional wellness of their
+    community at an AGGREGATE level. It does NOT diagnose, track individuals,
+    or replace professional mental health services. All flagged concerns
+    MUST be reviewed by a qualified professional.
+
+# --- Expanded Emotional Taxonomy ---
+emotional_dimensions:
+  # Each dimension is scored 0-100 intensity
+  anxiety:
+    label: "Anxiety"
+    icon: "😰"
+    color: "#FF9800"
+    keywords_high:
+      - "panic attack"
+      - "can't breathe"
+      - "heart racing"
+      - "terrified"
+      - "dread"
+      - "catastrophizing"
+      - "spiraling"
+      - "fear"
+      - "paralyzed with fear"
+      - "constant worry"
+    keywords_moderate:
+      - "anxious"
+      - "nervous"
+      - "worried"
+      - "uneasy"
+      - "restless"
+      - "on edge"
+      - "tense"
+      - "apprehensive"
+    keywords_mild:
+      - "slight worry"
+      - "a bit nervous"
+      - "butterflies"
+      - "concerned"
+
+  depression:
+    label: "Depression"
+    icon: "😔"
+    color: "#5C6BC0"
+    keywords_high:
+      - "hopeless"
+      - "worthless"
+      - "can't go on"
+      - "no reason to live"
+      - "empty inside"
+      - "numb"
+      - "dead inside"
+      - "nothing matters"
+      - "meaningless"
+    keywords_moderate:
+      - "depressed"
+      - "sad all the time"
+      - "crying"
+      - "no motivation"
+      - "can't get out of bed"
+      - "no energy"
+      - "dark place"
+      - "joyless"
+    keywords_mild:
+      - "feeling down"
+      - "blue"
+      - "low mood"
+      - "melancholy"
+      - "gloomy"
+
+  loneliness:
+    label: "Loneliness & Isolation"
+    icon: "🫥"
+    color: "#78909C"
+    keywords_high:
+      - "completely alone"
+      - "nobody cares"
+      - "invisible"
+      - "abandoned"
+      - "no one understands"
+      - "cut off from everyone"
+    keywords_moderate:
+      - "lonely"
+      - "isolated"
+      - "disconnected"
+      - "left out"
+      - "no friends"
+      - "nobody to talk to"
+    keywords_mild:
+      - "a bit lonely"
+      - "wish I had more friends"
+      - "missing connection"
+
+  anger:
+    label: "Anger & Frustration"
+    icon: "😤"
+    color: "#E53935"
+    keywords_high:
+      - "rage"
+      - "furious"
+      - "want to break things"
+      - "uncontrollable anger"
+      - "explosive"
+      - "violent thoughts"
+    keywords_moderate:
+      - "angry"
+      - "frustrated"
+      - "irritated"
+      - "resentful"
+      - "bitter"
+      - "fed up"
+    keywords_mild:
+      - "annoyed"
+      - "miffed"
+      - "bothered"
+      - "irked"
+
+  grief:
+    label: "Grief & Loss"
+    icon: "💔"
+    color: "#7B1FA2"
+    keywords_high:
+      - "lost my"
+      - "death of"
+      - "will never see"
+      - "gone forever"
+      - "can't accept they're gone"
+      - "devastating loss"
+    keywords_moderate:
+      - "grieving"
+      - "mourning"
+      - "miss them so much"
+      - "heartbroken"
+      - "loss"
+    keywords_mild:
+      - "missing"
+      - "reminiscing"
+      - "bittersweet"
+
+  burnout:
+    label: "Burnout & Exhaustion"
+    icon: "🔥"
+    color: "#F57F17"
+    keywords_high:
+      - "completely burnt out"
+      - "can't take anymore"
+      - "breaking point"
+      - "total exhaustion"
+      - "falling apart"
+      - "ready to quit everything"
+    keywords_moderate:
+      - "exhausted"
+      - "overwhelmed"
+      - "burnt out"
+      - "drowning in work"
+      - "no work life balance"
+      - "running on empty"
+    keywords_mild:
+      - "tired"
+      - "stressed"
+      - "need a break"
+      - "stretched thin"
+
+  self_harm:
+    label: "Self-Harm Indicators"
+    icon: "⚠️"
+    color: "#D32F2F"
+    keywords_high:
+      - "cutting myself"
+      - "self harm"
+      - "hurting myself"
+      - "want to hurt myself"
+      - "injure myself"
+      - "burn myself"
+    keywords_moderate:
+      - "urge to hurt myself"
+      - "thinking about self harm"
+      - "scratching myself"
+    keywords_mild: []
+
+  positive_wellness:
+    label: "Positive Wellness"
+    icon: "✨"
+    color: "#4CAF50"
+    keywords_high:
+      - "grateful"
+      - "happy"
+      - "wonderful"
+      - "thriving"
+      - "blessed"
+      - "joy"
+      - "content"
+      - "fulfilled"
+      - "at peace"
+    keywords_moderate:
+      - "good"
+      - "okay"
+      - "alright"
+      - "fine"
+      - "not bad"
+      - "doing better"
+    keywords_mild:
+      - "managing"
+      - "getting by"
+      - "could be worse"
+
+# --- Community Dashboard ---
+dashboard:
+  title: "MindGuard Community Dashboard"
+  subtitle: "Anonymous Emotional Wellness Insights"
+  
+  # Risk tiers for community alerting
+  risk_tiers:
+    critical:
+      label: "Immediate Attention"
+      color: "#D32F2F"
+      description: "Responses indicating severe distress or crisis"
+      action: "Professional must review immediately"
+    
+    elevated:
+      label: "Follow Up Needed"
+      color: "#FF9800"
+      description: "Responses showing moderate emotional distress"
+      action: "Schedule follow-up within 48 hours"
+    
+    monitoring:
+      label: "Awareness"
+      color: "#FFC107"
+      description: "Mild stress indicators worthy of monitoring"
+      action: "Include in overall wellness trends"
+    
+    healthy:
+      label: "Healthy"
+      color: "#4CAF50"
+      description: "No concerning indicators detected"
+      action: "Continue routine check-ins"
+
+  # Trend analysis settings
+  trends:
+    window_days: 30      # Trend analysis time window
+    min_responses: 10    # Minimum responses for trend calculation
+    alert_threshold: 20  # % increase in distress triggers alert
+
+# --- Batch Analysis ---
+batch:
+  max_texts_per_batch: 100
+  min_text_length: 10
+  separator: "---"       # Separator for multi-text paste input
+
+# --- API Settings ---
+api:
+  enabled: true
+  port: 8000
+  rate_limit: 100        # requests per minute
+  require_api_key: true
+  cors_origins:
+    - "http://localhost:*"
+    - "https://*.mindguard.org"
+
+# --- Privacy (Inherited + Extended) ---
+privacy:
+  log_inputs: false           # HARD: never log user text
+  store_individual_results: false   # HARD: never store per-person results
+  aggregate_only: true        # HARD: only aggregate statistics
+  anonymize_outputs: true     # Strip any potential identifiers
+  retention_days: 90          # Keep aggregate stats for 90 days max
+  encryption: "AES-256"       # Encryption standard for any stored data
