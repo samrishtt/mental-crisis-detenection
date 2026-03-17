@@ -1,24 +1,81 @@
 # ============================================================
-# MindGuard Community Edition Configuration
+# MindGuard Community Edition — Commercial Configuration
 # Emotional Wellness Platform for Organizations & Communities
+# Version 3.0.0 — Multi-Org, Sellable Edition
 # ============================================================
 
 # --- Community Features ---
 community:
-  name: "MindGuard Community Edition"
-  version: "2.0.0"
-  tagline: "Empowering communities to support emotional wellness"
+  name: "MindGuard"
+  version: "3.0.0"
+  tagline: "AI-Powered Anonymous Emotional Wellness Intelligence"
+  support_email: "support@mindguard.ai"
+  website: "https://mindguard.ai"
   
   ethical_disclaimer: >
-    MindGuard Community Edition is an ANONYMOUS SCREENING tool designed
-    to help organizations understand the emotional wellness of their
-    community at an AGGREGATE level. It does NOT diagnose, track individuals,
-    or replace professional mental health services. All flagged concerns
-    MUST be reviewed by a qualified professional.
+    MindGuard is an ANONYMOUS SCREENING tool designed to help organizations
+    understand the emotional wellness of their community at an AGGREGATE level.
+    It does NOT diagnose, track individuals, or replace professional mental
+    health services. All flagged concerns MUST be reviewed by a qualified
+    professional.
+
+# --- Pricing Tiers ---
+pricing:
+  tiers:
+    free:
+      name: "Community Free"
+      max_analyses_per_month: 500
+      max_batch_size: 25
+      features:
+        - "Single text analysis"
+        - "Batch analysis (up to 25)"
+        - "Basic emotional profiling"
+        - "Community health score"
+      price_usd: 0
+    
+    starter:
+      name: "Starter"
+      max_analyses_per_month: 5000
+      max_batch_size: 100
+      features:
+        - "Everything in Free"
+        - "REST API access"
+        - "Trend history (30 days)"
+        - "CSV/PDF export"
+        - "Email alerts"
+        - "8 emotional dimensions"
+      price_usd: 29
+    
+    professional:
+      name: "Professional"
+      max_analyses_per_month: 50000
+      max_batch_size: 500
+      features:
+        - "Everything in Starter"
+        - "Trend history (365 days)"
+        - "Webhook integrations"
+        - "Custom branding"
+        - "Priority support"
+        - "Bias audit reports"
+        - "Multi-user access"
+      price_usd: 99
+    
+    enterprise:
+      name: "Enterprise"
+      max_analyses_per_month: -1  # Unlimited
+      max_batch_size: 2000
+      features:
+        - "Everything in Professional"
+        - "Unlimited analyses"
+        - "On-premise deployment"
+        - "Custom model fine-tuning"
+        - "SLA guarantee"
+        - "Dedicated account manager"
+        - "HIPAA compliance support"
+      price_usd: -1  # Contact sales
 
 # --- Expanded Emotional Taxonomy ---
 emotional_dimensions:
-  # Each dimension is scored 0-100 intensity
   anxiety:
     label: "Anxiety"
     icon: "😰"
@@ -217,10 +274,9 @@ emotional_dimensions:
 
 # --- Community Dashboard ---
 dashboard:
-  title: "MindGuard Community Dashboard"
-  subtitle: "Anonymous Emotional Wellness Insights"
+  title: "MindGuard Dashboard"
+  subtitle: "Anonymous Emotional Wellness Intelligence"
   
-  # Risk tiers for community alerting
   risk_tiers:
     critical:
       label: "Immediate Attention"
@@ -246,33 +302,63 @@ dashboard:
       description: "No concerning indicators detected"
       action: "Continue routine check-ins"
 
-  # Trend analysis settings
   trends:
-    window_days: 30      # Trend analysis time window
-    min_responses: 10    # Minimum responses for trend calculation
-    alert_threshold: 20  # % increase in distress triggers alert
+    window_days: 30
+    min_responses: 10
+    alert_threshold: 20  # % increase triggers alert
 
 # --- Batch Analysis ---
 batch:
   max_texts_per_batch: 100
   min_text_length: 10
-  separator: "---"       # Separator for multi-text paste input
+  separator: "---"
 
 # --- API Settings ---
 api:
   enabled: true
   port: 8000
-  rate_limit: 100        # requests per minute
+  rate_limit_per_minute: 60
+  rate_limit_per_hour: 1000
   require_api_key: true
   cors_origins:
     - "http://localhost:*"
-    - "https://*.mindguard.org"
+    - "https://*.mindguard.ai"
 
-# --- Privacy (Inherited + Extended) ---
+# --- Database (Aggregate Trends Only) ---
+database:
+  type: "sqlite"
+  path: "data/mindguard.db"
+  # ONLY stores: aggregate scores, org info, usage counts
+  # NEVER stores: individual texts, individual results, PII
+
+# --- Webhook Integrations ---
+webhooks:
+  enabled: true
+  supported_events:
+    - "batch_analysis_complete"
+    - "critical_flag_detected"
+    - "health_score_below_threshold"
+  retry_attempts: 3
+  timeout_seconds: 10
+
+# --- Email Alerts ---
+alerts:
+  enabled: false  # Set to true and configure SMTP for production
+  smtp_host: ""
+  smtp_port: 587
+  smtp_user: ""
+  from_email: "alerts@mindguard.ai"
+  # Trigger conditions
+  triggers:
+    health_score_below: 40
+    critical_flags_above: 3
+    burnout_average_above: 70
+
+# --- Privacy (Enforced at Every Layer) ---
 privacy:
-  log_inputs: false           # HARD: never log user text
-  store_individual_results: false   # HARD: never store per-person results
-  aggregate_only: true        # HARD: only aggregate statistics
-  anonymize_outputs: true     # Strip any potential identifiers
-  retention_days: 90          # Keep aggregate stats for 90 days max
-  encryption: "AES-256"       # Encryption standard for any stored data
+  log_inputs: false
+  store_individual_results: false
+  aggregate_only: true
+  anonymize_outputs: true
+  retention_days: 90
+  encryption: "AES-256"
