@@ -1,10 +1,19 @@
 import sys
+import io
 import yaml
 import torch
 from pathlib import Path
 from typing import Dict, List, Optional
 import re
 import numpy as np
+
+# Fix Windows console encoding for emoji/unicode characters
+if sys.platform == 'win32':
+    try:
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -39,7 +48,7 @@ class EmotionalAnalyzer:
             with open(default_path, 'r', encoding='utf-8') as f:
                 return yaml.safe_load(f)
         
-        print("⚠️ Warning: community_config.yaml not found.")
+        print("[WARN] community_config.yaml not found.")
         return {}
 
     def _load_core_model(self):
@@ -51,15 +60,15 @@ class EmotionalAnalyzer:
                 self.model = MindGuardClassifier(num_labels=4).to(self.device)
                 self.model.load_model(str(model_path))
                 self.model.eval()
-                print("✅ Core Mental-BERT model loaded for Emotional Analyzer.")
+                print("[OK] Core Mental-BERT model loaded for Emotional Analyzer.")
             else:
-                print("⚠️ Core model not found at checkpoints/best_model. Operating in keyword-only mode.")
+                print("[WARN] Core model not found at checkpoints/best_model. Operating in keyword-only mode.")
         except Exception as e:
-            print(f"⚠️ Failed to load core model: {str(e)[:100]}. Operating in keyword-only mode.")
+            print(f"[WARN] Failed to load core model: {str(e)[:100]}. Operating in keyword-only mode.")
 
     def analyze_text(self, text: str) -> Dict:
         """
-        Produce a comprehensive emotional profile for a single text length.
+        Produce a comprehensive emotional profile for a single text.
         Combines Mental-BERT core risk with dimensional analysis.
         """
         if not text or len(text.strip()) < 10:
@@ -122,7 +131,6 @@ class EmotionalAnalyzer:
             
             # High intensity keywords (+40 each)
             for kw in dim_data.get('keywords_high', []):
-                # Search with word boundaries for better accuracy
                 if re.search(r'\b' + re.escape(kw) + r'\b', text_lower):
                     score += 40
                     primary_triggers.append(kw)
@@ -145,9 +153,9 @@ class EmotionalAnalyzer:
             scores[dim_key] = {
                 "score": final_score,
                 "label": dim_data.get('label', dim_key.title()),
-                "icon": dim_data.get('icon', '•'),
+                "icon": dim_data.get('icon', '-'),
                 "color": dim_data.get('color', '#888888'),
-                "triggers_found": primary_triggers[:3] # Keep it concise
+                "triggers_found": primary_triggers[:3]
             }
             
         return scores
