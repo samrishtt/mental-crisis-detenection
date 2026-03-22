@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "MindGuard Analyzer",
+  "version": "1.0",
+  "description": "Analyze text for emotional wellness metrics (Requires local MindGuard API running).",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon128.png",
+    "default_title": "MindGuard Text Analyzer"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*"
+  ]
+}

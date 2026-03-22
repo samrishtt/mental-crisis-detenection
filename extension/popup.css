@@ -1,0 +1,211 @@
+body {
+  width: 360px;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f8fafc;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.logo-box {
+  width: 32px;
+  height: 32px;
+  background-color: #2563eb;
+  color: white;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 12px;
+}
+
+.header h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #1e293b;
+}
+
+.disclaimer {
+  background-color: #fff3e0;
+  color: #d97706;
+  font-size: 11px;
+  text-align: center;
+  padding: 6px;
+  border-bottom: 1px solid #fde68a;
+  font-weight: 500;
+}
+
+.container {
+  padding: 15px;
+}
+
+textarea {
+  width: 100%;
+  height: 80px;
+  box-sizing: border-box;
+  resize: vertical;
+  padding: 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+
+textarea:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  flex: 1;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  transition: opacity 0.2s;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn.primary {
+  background-color: #2563eb;
+  color: white;
+}
+
+.btn.secondary {
+  background-color: #e2e8f0;
+  color: #475569;
+}
+
+.hidden {
+  display: none !important;
+}
+
+#loading {
+  text-align: center;
+  font-size: 13px;
+  color: #64748b;
+  margin: 20px 0;
+}
+
+.error {
+  background-color: #fee2e2;
+  color: #b91c1c;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 13px;
+  text-align: center;
+}
+
+/* Results */
+h3 {
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #64748b;
+  letter-spacing: 0.05em;
+  margin: 20px 0 10px 0;
+  border-bottom: 1px solid #e2e8f0;
+  padding-bottom: 4px;
+}
+
+.result-card {
+  background: white;
+  padding: 12px;
+  border-radius: 6px;
+  border-left: 4px solid #94a3b8;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.result-level {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.result-conf {
+  font-size: 11px;
+  color: #64748b;
+}
+
+.flag {
+  padding: 8px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+.flag.critical {
+  background-color: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fca5a5;
+}
+
+.flag.warning {
+  background-color: #fef3c7;
+  color: #b45309;
+  border: 1px solid #fcd34d;
+}
+
+.dim {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.dim-name {
+  width: 140px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.dim-bar-wrap {
+  flex: 1;
+  height: 8px;
+  background: #e2e8f0;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-right: 10px;
+}
+
+.dim-bar {
+  height: 100%;
+}
+
+.dim-val {
+  width: 30px;
+  text-align: right;
+  font-weight: bold;
+  color: #475569;
+}
+
+.footer-note {
+  margin-top: 25px;
+  font-size: 10px;
+  color: #94a3b8;
+  text-align: center;
+}

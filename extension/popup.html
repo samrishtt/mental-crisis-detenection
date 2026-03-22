@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="popup.css">
+  <title>MindGuard</title>
+</head>
+<body>
+  <div class="header">
+    <div class="logo-box">MG</div>
+    <h2>MindGuard</h2>
+  </div>
+  
+  <div class="disclaimer">
+    Screening tool only. Not for diagnosis.
+  </div>
+
+  <div class="container">
+    <textarea id="inputText" placeholder="Paste text here or select text on the page..."></textarea>
+    
+    <div class="actions">
+      <button id="grabBtn" class="btn secondary" title="Grab currently highlighted text on the page">Grab Selected Text</button>
+      <button id="analyzeBtn" class="btn primary">Analyze</button>
+    </div>
+
+    <div id="loading" class="hidden">Connecting to local MindGuard API...</div>
+    <div id="errorMsg" class="hidden error"></div>
+
+    <div id="results" class="hidden">
+      <h3>Assessment</h3>
+      <div id="coreResult" class="result-card"></div>
+      
+      <div id="flagsContainer"></div>
+      
+      <h3>Emotions Profile</h3>
+      <div id="emotionsList"></div>
+      
+      <div class="footer-note">
+        Analyzed directly on your local MindGuard server. 
+        Data is never stored.
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
